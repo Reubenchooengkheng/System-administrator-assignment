@@ -32,6 +32,7 @@ public class Hospital extends javax.swing.JFrame {
         jTextArea1 = new javax.swing.JTextArea();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setBackground(new java.awt.Color(102, 255, 204));
 
         jButton1.setText("<-back");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
