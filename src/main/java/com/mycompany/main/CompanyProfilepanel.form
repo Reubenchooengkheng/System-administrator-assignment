@@ -78,7 +78,7 @@
           <Properties>
             <Property name="columns" type="int" value="20"/>
             <Property name="rows" type="int" value="5"/>
-            <Property name="text" type="java.lang.String" value="Campany name:&#xa;&#xa;&#xa;Email address:&#xa;&#xa;&#xa;Telephone no.:"/>
+            <Property name="text" type="java.lang.String" value="Company name:&#xa;&#xa;&#xa;Email address:&#xa;&#xa;&#xa;Telephone no.:"/>
           </Properties>
         </Component>
       </SubComponents>

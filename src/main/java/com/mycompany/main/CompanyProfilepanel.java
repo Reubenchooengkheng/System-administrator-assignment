@@ -44,7 +44,7 @@ public class CompanyProfilepanel extends javax.swing.JPanel {
 
         jTextArea1.setColumns(20);
         jTextArea1.setRows(5);
-        jTextArea1.setText("Campany name:\n\n\nEmail address:\n\n\nTelephone no.:");
+        jTextArea1.setText("Company name:\n\n\nEmail address:\n\n\nTelephone no.:");
         jScrollPane1.setViewportView(jTextArea1);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
